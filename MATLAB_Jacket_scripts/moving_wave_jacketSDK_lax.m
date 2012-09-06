@@ -41,7 +41,7 @@ f = gdouble(f);
 f_tmp = gdouble(f);
 
 
-addpath('/home/srblair/Dropbox/matlab/jacketSDK/wave1D_lax');
+%addpath(** path to wave1D_lax folder for Jacket SDK **);
 
 for ts = 1:Num_ts
     

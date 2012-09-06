@@ -47,7 +47,7 @@ f_tmp = gdouble(f);
 f_tmp1 = gdouble(f);
 x_m = gint32(x_m);
 x_p = gint32(x_p);
-addpath('/home/srblair/Dropbox/matlab/jacketSDK/wave1D_maccormack');
+%addpath(** path to wave1D_maccormack folder in JacketSDK **);
 
 for ts = 1:Num_ts
     

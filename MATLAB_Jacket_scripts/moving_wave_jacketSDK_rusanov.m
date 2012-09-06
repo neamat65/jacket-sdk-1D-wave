@@ -52,7 +52,9 @@ f = gdouble(f);
 % x_p = gint32(x_p);
 % x_2m = gint32(x_2m);
 % x_2p = gint32(x_2p);
-addpath('/home/srblair/Dropbox/matlab/jacketSDK/wave1D_rusanov');
+
+
+%addpath(** path to wave1D_rusanov folder for Jacket SDK **);
 
 for ts = 1:Num_ts
     
